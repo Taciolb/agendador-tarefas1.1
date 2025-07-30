@@ -24,6 +24,7 @@ public class SecurityConfig {
         this.jwtUtil = jwtUtil;
         this.userDetailsService = userDetailsService;
     }
+    //alterado
 
     // Configuração do filtro de segurança
     @Bean
