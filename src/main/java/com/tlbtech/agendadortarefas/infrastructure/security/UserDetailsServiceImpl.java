@@ -3,7 +3,7 @@ package com.tlbtech.agendadortarefas.infrastructure.security;
 
 
 import com.tlbtech.agendadortarefas.business.dto.UsuarioDTO;
-import com.tlbtech.agendadortarefas.infrastructure.client.UsuarioClient;
+import com.tlbtech.agendadortarefas.infrastructure.security.client.UsuarioClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

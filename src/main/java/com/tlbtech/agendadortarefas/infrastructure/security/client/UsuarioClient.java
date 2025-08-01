@@ -1,4 +1,4 @@
-package com.tlbtech.agendadortarefas.infrastructure.client;
+package com.tlbtech.agendadortarefas.infrastructure.security.client;
 
 import com.tlbtech.agendadortarefas.business.dto.UsuarioDTO;
 import org.springframework.cloud.openfeign.FeignClient;
